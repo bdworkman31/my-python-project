@@ -1,0 +1,43 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+venv/
+ENV/
+env/
+venv.bak/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Local configuration files
+*.env
+*.local
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
